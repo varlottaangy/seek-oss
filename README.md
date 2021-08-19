@@ -40,7 +40,12 @@
 
 <img src="/images/bgimg2.jpg"  width = "270" height = "480"/>
 <img src="/images/bgimg1.jpg"  width = "270" height = "480"/>
-<img src="/images/bgimg3.jpg"  width = "270" height = "480"/>
+<img src="/images/bgimg3.jpg"  width = "270" height = "480"/>  
+
+#### 微信公众号  
+------------------------  
+
+<img src="/images/wx.jpg"  width = "270" height = "270"/>  
 
 #### 鸣谢
 ------------------------
